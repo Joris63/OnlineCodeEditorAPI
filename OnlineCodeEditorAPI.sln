@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCodeEditorAPI", "OnlineCodeEditorAPI.csproj", "{0A5D2B36-1CB5-4029-825D-4BF006A7ECAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5D2B36-1CB5-4029-825D-4BF006A7ECAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5D2B36-1CB5-4029-825D-4BF006A7ECAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5D2B36-1CB5-4029-825D-4BF006A7ECAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5D2B36-1CB5-4029-825D-4BF006A7ECAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9332AF-3953-4ABD-8078-A1B375E87AD8}
+	EndGlobalSection
+EndGlobal
